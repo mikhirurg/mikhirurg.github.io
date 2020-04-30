@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Остовное дерево"
+title:  "Степени вершин"
 date:   2020-04-30 14:30:00 +0300
 categories: algo graphs
 permalink: /:categories/:day/:year/:month/:title.html
