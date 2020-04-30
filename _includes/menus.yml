@@ -1,0 +1,10 @@
+---
+title: Homepage
+menus:
+  header:
+    title: Алгоритмы
+    weight: 1
+    url: https://mikhirurg.github.io/algo/
+  
+    
+---
