@@ -66,9 +66,9 @@ for (int i = 0; i < n; i++) {
 
 </details>
 
-## Похожие задачи в тестирующих системах
+### Похожие задачи в тестирующих системах
 
-### informatics.mccme.ru
+#### informatics.mccme.ru
 
-(Связное множество)[https://informatics.mccme.ru/mod/statements/view3.php?id=26153&chapterid=605#1]
+[Связное множество](https://informatics.mccme.ru/mod/statements/view3.php?id=26153&chapterid=605#1)
 

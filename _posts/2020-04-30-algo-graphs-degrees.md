@@ -23,9 +23,9 @@ for (int i = 0; i < m; i++) {
 {% endhighlight %}
 </details>
 
-## Похожие задачи в тестирующих системах
+### Похожие задачи в тестирующих системах
 
-### informatics.mccme.ru
+#### informatics.mccme.ru
 
-(Задача №470, степени вершин)[https://informatics.mccme.ru/mod/statements/view3.php?id=359&chapterid=470#1]
+[Задача №470, степени вершин](https://informatics.mccme.ru/mod/statements/view3.php?id=359&chapterid=470#1)
 
