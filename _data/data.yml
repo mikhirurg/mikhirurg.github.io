@@ -1,0 +1,180 @@
+name: Mikhail Ushakov
+support_dark_mode: true
+fork: true
+
+# Sidebar
+contact:
+  email: mikhail.a.ushakov@gmail.com
+  github: mikhirurg
+  linkedin: mikhail-ushakov-06261b167
+  telegram: mikhirurg
+  phone: 
+  gitlab: 
+  twitter: 
+
+languages:
+  - idiom: Russian (Native speaker)
+  - idiom: English (C1)
+  - idiom: Dutch (A1)
+
+education:
+  - degree: BSc in Computing Science
+    time: 2021-present
+    university: Radboud Universiteit Nijmegen
+
+  - degree: BSc in Programming and Internet Technologies (incomplete)
+    time: 2019-2021
+    university:  ITMO University
+
+skills:
+  - category: Technical
+    skill: 
+      - Java
+      - C++
+      - Python
+      - Haskell
+      - Pascal
+      - Bash
+      - MySQL
+
+  - category: Web
+    skill:
+      - HTML
+      - CSS
+      - Javascript
+
+  - category: API
+    skill:
+      - Java Swing
+      - Spring Boot
+      - OpenGL 
+      - Telegram API
+
+# Profile
+profile: |
+  I am a software developer and BSc Computer Science student at Radboud University Nijmegen. 
+  Currently, I am mostly interested in Java application development and Spring Boot API development. 
+  Also, I have some background in IDE plugin development, physics simulators, computer graphics, competitive programming, and data science.
+  I'm also familiar with and actively used in my coursework and personal projects the following programming languages and technologies: C/C++, Haskell, Python, and MySQL.
+
+projects:
+  - title: IDE-News 
+    link: https://github.com/mikhirurg/IDE-News
+    details: |
+      The IntelliJ platform plugin that allows you to subscribe to different RSS channels and read your favorite news not leaving the IDE.
+
+  - title: SingnalProcessor
+    link: https://github.com/mikhirurg/SignalProcessor
+    details: |
+      The oscilloscope simulator that allows generating and visualizing different signals. Also, it is possible to add noise to the signals and then analyze and transform them.
+
+  - title: LensRayTracing
+    link: https://github.com/mikhirurg/LensRayTracing
+    details: |
+      Ray tracing and rays trajectory modeling for the cylindrical lens and single light source.
+
+  - title: PGMpp
+    link: https://github.com/mikhirurg/PGMpp
+    details: |
+      The image manipulation library for PGM images format.
+
+  - title: ElectricField
+    link: https://github.com/mikhirurg/ElectricField
+    details: |
+      The interactive physics demonstration environment that allows the simulation of the lines of force produced by two charged particles.
+
+  - title: StatiegeldCouponsApp
+    link: https://github.com/RadboudCoolTeam/StatiegeldCouponsApp
+    details: |
+      Android-based Statiegeld coupons keeper
+
+  - title: StatiegeldCouponsAPI
+    link: https://github.com/RadboudCoolTeam/StatiegeldCouponsAPI
+    details: |
+       Web API part for the StatiegeldCoupons project.
+
+  - title: CubeSolver
+    link: https://github.com/mikhirurg/CubeSolver
+    details: |
+      Rubik's cube solver written in pure C++ with OpenGL 3d visualization.
+
+  - title: ScheduleBot
+    link: https://github.com/mikhirurg/ScheduleBot
+    details: |
+       ITMO University schedule bot for Discord
+
+# Certificates
+certificates:
+  - time: Oct 2021
+    name: Elements of AI
+    organization: University of Helsinki and Reaktor
+    details: |
+      
+    link: /certificates/certificate-elements-of-ai.png
+
+  - time: Mar 2021
+    name: IELTS Academic
+    organization: Students International IELTS Test Centre
+    details: |
+
+    link: /certificates/IELTS.pdf
+
+  - time: Nov 2020
+    name: Programming in C++
+    organization: Wärtsilä Digital Technologies
+    details: |
+
+    link: /certificates/Wartsila_Cpp.pdf
+
+  - time: Aug 2020
+    name: Basics in Java Programming
+    organization: St. Petersburg Computer Science Center
+    details: |
+
+    link: /certificates/stepik-certificate-CSC_Java.pdf
+
+  - time: July 2020
+    name: Programming in C++
+    organization: St. Petersburg Computer Science Center
+    details: |
+
+    link: /certificates/stepik-certificate-CSC_Cpp.pdf
+
+  - time: July 2019
+    name: Introduction to Programming in C++
+    organization: Yandex Academy
+    details: |
+
+    link: /certificates/stepik-certificate-Yandex_Cpp.pdf
+
+  - time: June 2018
+    name: Mathematics, Informatics, and Physics
+    organization: Moscow Institute of Physics and Technology
+    details: |
+
+    link: /certificates/MIPT
+
+  - time: June 2018
+    name: Competitive Programming Summer School
+    organization: ITMO University
+    details: |
+
+  - time: May 2018
+    name: Mobile Development and Programming in Kotlin 
+    organization: JetBrains Research
+    details: |
+    
+
+# Volunteering
+volunteering:
+  - time: Mar 2020
+    role: Student volunteer
+    company: ITMO University
+    details: |
+      Olympiad in Information Technology student volunteer.
+  
+  - time: Dec 2018
+    role: Student volunteer
+    company: St. Petersburg Lyceum 239
+    details: |
+      Math Day student volunteer

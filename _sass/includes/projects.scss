@@ -1,0 +1,15 @@
+.projects {
+    .title {
+        @include header;
+    }
+    .project {
+        margin-bottom: 20px;
+        .project-link {
+            @include sub-header;
+            font-weight: bold;
+        }
+        .details {
+            @include body-text;
+        }
+    }
+}
