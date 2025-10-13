@@ -13,9 +13,9 @@ contact:
   twitter: 
 
 languages:
-  - idiom: Russian (Native speaker)
   - idiom: English (C1)
-  - idiom: Dutch (A1)
+  - idiom: Dutch (A2)
+  - idiom: Russian (Native speaker)
 
 education:
   - degree: MSc in Computing Science
@@ -208,8 +208,47 @@ certificates:
     name: Mobile Development and Programming in Kotlin 
     organization: JetBrains Research
     details: |
-    
 
+# Experience
+experience:
+  - time: Sep 2025 - Present
+    role: Student Assistant
+    company: Radboud University
+    details: | 
+      Student Assistant for the Data Mining and Machine Learning course
+      
+  - time: Sep 2024 - Jan 2025
+    role: Student Assistant
+    company: Radboud University
+    details: | 
+      Student Assistant for the Data Mining and Machine Learning course
+
+  - time: Sep 2024 - Nov 2024
+    role: Student Assistant
+    company: Radboud University
+    details: | 
+      Student assistant for the Semantics and Correctness course
+
+  - time: Feb 2024 - Jun 2024
+    role: Back End Developer
+    company: GiPHouse
+    details: | 
+      I was working on the "Date A Tree" (ex. Tree Tinder) project developed for the Radboud UMC. 
+      https://dateatree.com/ 
+      https://www.ru.nl/en/about-us/news/date-a-tree-connect-with-a-tree-to-connect-with-nature
+
+  - time: Jan 2024 - Apr 2025
+    role: Student Assistant
+    company: Radboud University
+    details: | 
+      Student assistant for the Semantics and Correctness course
+
+  - time: Sep 2023 - Jan 2024
+    role: Student Assistant
+    company: Radboud University
+    details: | 
+      Student assistant for the Data Mining course
+      
 # Volunteering
 volunteering:
   - time: Mar 2020
