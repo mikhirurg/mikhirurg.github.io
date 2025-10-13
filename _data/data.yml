@@ -18,8 +18,12 @@ languages:
   - idiom: Dutch (A1)
 
 education:
+  - degree: MSc in Computing Science
+    time: 2024-2026
+    university: Radboud Universiteit Nijmegen
+  
   - degree: BSc in Computing Science
-    time: 2021-present
+    time: 2021-2024
     university: Radboud Universiteit Nijmegen
 
   - degree: BSc in Information Systems and Technologies (incomplete)
@@ -30,9 +34,13 @@ skills:
   - category: Technical
     skill: 
       - Java
-      - C++
       - Python
-      - Haskell
+      - Kotlin
+      - Haskell/Clean
+      - Z3
+      - Rocq
+      - C++
+      - OCaml
       - Pascal
       - Bash
       - MySQL
@@ -41,24 +49,63 @@ skills:
     skill:
       - HTML
       - CSS
-      - Javascript
+      - JavaScript
 
   - category: API
     skill:
       - Java Swing
       - Spring Boot
+      - Flask
+      - Matrix API
+      - Google Maps API
       - OpenGL 
       - Telegram API
 
 # Profile
 profile: |
-  I am a software developer and BSc Computer Science student at Radboud University Nijmegen. 
-  Currently, I am mostly interested in Java application development and Spring Boot API development. 
-  Also, I have some experience in IDE plugin development, physics simulators, computer graphics, data science, and competitive programming.
-  I also actively used in my coursework and personal projects the following programming languages and technologies: C/C++, Haskell, Python, and MySQL.
+  I am a software developer and MSc Software Science student at Radboud University Nijmegen. 
+  My academic interests include Term Rewriting, Functional Programming, and Compiler Construction. 
+  In software development, I am primarily interested in developing Java applications and Spring Boot APIs. 
+  Additionally, I have experience in IDE plugin development, physics simulation, computer graphics, data science, and competitive programming. 
+  I also actively used the following programming languages and technologies in my coursework and personal projects: Python, Haskell/Clean, OCaml, Rocq, C/C++, and MySQL.
 
 
 projects:
+  - title: WPP2TRS
+    link: https://github.com/mikhirurg/WPP2TRS
+    details: | 
+      Java library that allows translating While++ programs into the LCTRS
+  
+  - title: SPLCompiler
+    link: https://github.com/mikhirurg/SPLCompiler
+    details: | 
+      Simple Programming Language (SPL) compiler to the Simple Stack Machine (SSM)
+
+  - title: DerivationTreeBuilder
+    link: https://github.com/mikhirurg/DerivationTreeBuilder
+    details: |
+      Automatic generation of the derivation proof trees for While programs
+
+  - title: CubeSolver
+    link: https://github.com/mikhirurg/CubeSolver
+    details: |
+      Rubik's cube solver written in pure C++ with OpenGL 3d visualization.
+
+  - title: isabelle_x86asm
+    link: https://github.com/mikhirurg/isabelle_x86asm
+    details: | 
+      Isabelle x86 assembly formalization
+
+  - title: LensRayTracing
+    link: https://github.com/mikhirurg/LensRayTracing
+    details: |
+      Ray tracing and rays trajectory modeling for the cylindrical lens and single light source.
+
+  - title: MinPropLogicProver
+    link: https://github.com/mikhirurg/MinPropLogicProver
+    details: |
+      Small LCF-style prover for minimal propositional logic
+
   - title: IDE-News 
     link: https://github.com/mikhirurg/IDE-News
     details: |
@@ -68,11 +115,6 @@ projects:
     link: https://github.com/mikhirurg/SignalProcessor
     details: |
       The oscilloscope simulator that allows generating and visualizing different signals. Also, it is possible to add noise to the signals and then analyze and transform them.
-
-  - title: LensRayTracing
-    link: https://github.com/mikhirurg/LensRayTracing
-    details: |
-      Ray tracing and rays trajectory modeling for the cylindrical lens and single light source.
 
   - title: PGMpp
     link: https://github.com/mikhirurg/PGMpp
@@ -94,11 +136,6 @@ projects:
     details: |
        Web API part for the StatiegeldCoupons project.
 
-  - title: CubeSolver
-    link: https://github.com/mikhirurg/CubeSolver
-    details: |
-      Rubik's cube solver written in pure C++ with OpenGL 3d visualization.
-
   - title: ScheduleBot
     link: https://github.com/mikhirurg/ScheduleBot
     details: |
@@ -106,6 +143,13 @@ projects:
 
 # Certificates
 certificates:
+  - time: Aug 2024
+    name: 14th International School on Rewriting (ISR 2024), Track C
+    organization: Universität Innsbruck
+    details: |
+
+    link: /certificates/ISR2024.pdf
+
   - time: Oct 2021
     name: Elements of AI
     organization: University of Helsinki and Reaktor
