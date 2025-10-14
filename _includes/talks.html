@@ -4,16 +4,16 @@
     <h2 class="title">Talks</h2>
     {% for p in talks %}
         <div class="talk">
-            <span>
+            <div>
                 <a class="talk-link" href="{{p.link}}">
                     {{p.title}}
                 </a>
-            </span>
+            </div>
             <div class="organization">
                 {{p.organization}}
                 <span class="time">{{p.time}}</span>
             </div>
-            <span class="details">- {{p.details}}</span>
+            <div class="details"> {{p.details}}</div>
         </div>
     {% endfor %}
 </section>
