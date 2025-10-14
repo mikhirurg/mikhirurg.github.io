@@ -236,8 +236,8 @@ experience:
     role: Back End Developer
     company: GiPHouse
     details: | 
-      I was working on the "Date A Tree" (ex. Tree Tinder) project developed for the Radboud UMC. 
-      <a href="https://dateatree.com/"> https://dateatree.com/ </a>
+      I was working on the "Date A Tree" (ex. Tree Tinder) project developed for the Radboud UMC. <br/>
+      <a href="https://dateatree.com/"> https://dateatree.com/ </a> <br/>
       <a href="https://www.ru.nl/en/about-us/news/date-a-tree-connect-with-a-tree-to-connect-with-nature"> https://www.ru.nl/en/about-us/news/date-a-tree-connect-with-a-tree-to-connect-with-nature </a>
     technologies_used: Kotlin, Python, Spring Boot, PostgreSQL, Flask
 
