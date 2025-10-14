@@ -141,6 +141,14 @@ projects:
     details: |
        ITMO University schedule bot for Discord
 
+talks:
+  - time: Jun 2025
+    title: Dedukti and Lambdapi
+    link: https://www.cs.ru.nl/~freek/courses/pa-2024/slides/dedukti.pdf
+    details: | 
+      Presentation about the problem of the interoperability of the proof systems, 
+      and possibilities to solve it using the Dedukti and Lambdapi projects.
+
 # Certificates
 certificates:
   - time: Aug 2024
