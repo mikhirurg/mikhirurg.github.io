@@ -1,0 +1,16 @@
+{% assign talks = site.data.data.talks %}
+{% if talks %}
+<section class="talks">
+    <h2 class="title">Talks</h2>
+    {% for p in talks %}
+        <div class="talk">
+            <span>
+                <a class="talk-link" href="{{p.link}}">
+                    {{p.title}}
+                </a>
+            </span>
+            <span class="details">- {{p.details}}</span>
+        </div>
+    {% endfor %}
+</section>
+{% endif %}
