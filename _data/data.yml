@@ -143,6 +143,7 @@ projects:
 
 talks:
   - time: Jun 2025
+    organization: Radboud University
     title: Dedukti and Lambdapi
     link: https://www.cs.ru.nl/~freek/courses/pa-2024/slides/dedukti.pdf
     details: | 
