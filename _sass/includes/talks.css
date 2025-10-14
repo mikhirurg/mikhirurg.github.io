@@ -1,0 +1,15 @@
+.talks {
+    .title {
+        @include header;
+    }
+    .talk {
+        margin-bottom: 20px;
+        .talk-link {
+            @include sub-header;
+            font-weight: bold;
+        }
+        .details {
+            @include body-text;
+        }
+    }
+}
