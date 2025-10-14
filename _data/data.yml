@@ -216,18 +216,21 @@ experience:
     company: Radboud University
     details: | 
       Student Assistant for the Data Mining and Machine Learning course
+    technologies_used: Data Mining, Python, Jupyter, Machine Learning
       
   - time: Sep 2024 - Jan 2025
     role: Student Assistant
     company: Radboud University
     details: | 
       Student Assistant for the Data Mining and Machine Learning course
+    technologies_used: Data Mining, Python, Jupyter, Machine Learning
 
   - time: Sep 2024 - Nov 2024
     role: Student Assistant
     company: Radboud University
     details: | 
       Student assistant for the Semantics and Correctness course
+    technologies_used: While, Natural Semantics, Hoare Logic
 
   - time: Feb 2024 - Jun 2024
     role: Back End Developer
@@ -236,18 +239,21 @@ experience:
       I was working on the "Date A Tree" (ex. Tree Tinder) project developed for the Radboud UMC. 
       https://dateatree.com/ 
       https://www.ru.nl/en/about-us/news/date-a-tree-connect-with-a-tree-to-connect-with-nature
+    technologies_used: Kotlin, Python, Spring Boot, PostgreSQL, Flask
 
   - time: Jan 2024 - Apr 2025
     role: Student Assistant
     company: Radboud University
     details: | 
       Student assistant for the Semantics and Correctness course
+    technologies_used: While, Natural Semantics, Hoare Logic
 
   - time: Sep 2023 - Jan 2024
     role: Student Assistant
     company: Radboud University
     details: | 
       Student assistant for the Data Mining course
+    technologies_used: Data Mining, Python, Jupyter
       
 # Volunteering
 volunteering:
