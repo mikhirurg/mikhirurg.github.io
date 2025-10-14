@@ -147,8 +147,11 @@ talks:
     title: Dedukti and Lambdapi
     link: https://www.cs.ru.nl/~freek/courses/pa-2024/slides/dedukti.pdf
     details: | 
-      Presentation about the problem of the interoperability of the proof systems, 
-      and possibilities to solve it using the Dedukti and Lambdapi projects.
+      Presentation about the Dedukti logical framework and the Lambdapi proof assistant,
+      focusing on their role in solving the problem of interoperability of the proof systems.
+      During the presentation, I discussed the theoretical and practical challenges in translating proofs across different logical foundations 
+      and demonstrated how Dedukti (Lambda-Pi calculus modulo theory) can serve as a unifying framework.
+      This talk also included the practical demonstrations of translating Rocq proofs into the Dedukti and Lambdapi using the CoqInE tool.
 
 # Certificates
 certificates:
