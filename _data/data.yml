@@ -237,8 +237,8 @@ experience:
     company: GiPHouse
     details: | 
       I was working on the "Date A Tree" (ex. Tree Tinder) project developed for the Radboud UMC. 
-      https://dateatree.com/ 
-      https://www.ru.nl/en/about-us/news/date-a-tree-connect-with-a-tree-to-connect-with-nature
+      <a href="https://dateatree.com/"> https://dateatree.com/ </a>
+      <a href="https://www.ru.nl/en/about-us/news/date-a-tree-connect-with-a-tree-to-connect-with-nature"> https://www.ru.nl/en/about-us/news/date-a-tree-connect-with-a-tree-to-connect-with-nature </a>
     technologies_used: Kotlin, Python, Spring Boot, PostgreSQL, Flask
 
   - time: Jan 2024 - Apr 2025
