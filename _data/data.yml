@@ -153,6 +153,7 @@ talks:
       During the presentation, I discussed the theoretical and practical challenges in translating proofs across different logical foundations 
       and demonstrated how Dedukti (Lambda-Pi calculus modulo theory) can serve as a unifying framework.
       This talk also included the practical demonstrations of translating Rocq proofs into the Dedukti and Lambdapi using the CoqInE tool.
+      
   - time: Nov 2024
     organization: Radboud University: Type Theory and Coq course
     authors: Mikhail Ushakov, Rutger Broekhof
