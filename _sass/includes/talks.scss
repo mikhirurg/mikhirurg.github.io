@@ -17,6 +17,9 @@
             @include sub-header;
             font-weight: bold;
         }
+        .authors {
+            @include body-text;
+        }
         .details {
             @include body-text;
         }
