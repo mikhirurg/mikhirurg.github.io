@@ -18,6 +18,7 @@
             font-weight: bold;
         }
         .authors {
+            @include body-text;
             font-weight: bold;
             color: var(--fg-color-title-sm);
         }
