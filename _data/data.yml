@@ -143,7 +143,7 @@ projects:
 
 talks:
   - time: Jun 2025
-    organization: Radboud University: Proof Assistants course
+    organization: Radboud University\: Proof Assistants course
     authors: Mikhail Ushakov
     title: Dedukti and Lambdapi
     link: https://www.cs.ru.nl/~freek/courses/pa-2024/slides/dedukti.pdf
@@ -155,9 +155,9 @@ talks:
       This talk also included the practical demonstrations of translating Rocq proofs into the Dedukti and Lambdapi using the CoqInE tool.
       
   - time: Nov 2024
-    organization: Radboud University: Type Theory and Coq course
+    organization: Radboud University\: Type Theory and Coq course
     authors: Mikhail Ushakov, Rutger Broekhof
-    title: MLTT: W-types
+    title: MLTT\: W-types
     link: https://cs.ru.nl/~freek/courses/tt-2024/slides/tt-wtypes-material/slides.pdf
     details: |
       Presentation on W-types in Per Martin-Löf Type Theory. 
