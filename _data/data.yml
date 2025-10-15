@@ -143,7 +143,8 @@ projects:
 
 talks:
   - time: Jun 2025
-    organization: Radboud University
+    organization: Radboud University: Proof Assistants course
+    authors: Mikhail Ushakov
     title: Dedukti and Lambdapi
     link: https://www.cs.ru.nl/~freek/courses/pa-2024/slides/dedukti.pdf
     details: | 
@@ -152,6 +153,18 @@ talks:
       During the presentation, I discussed the theoretical and practical challenges in translating proofs across different logical foundations 
       and demonstrated how Dedukti (Lambda-Pi calculus modulo theory) can serve as a unifying framework.
       This talk also included the practical demonstrations of translating Rocq proofs into the Dedukti and Lambdapi using the CoqInE tool.
+  - time: Nov 2024
+    organization: Radboud University: Type Theory and Coq course
+    authors: Mikhail Ushakov, Rutger Broekhof
+    title: MLTT: W-types
+    link: https://cs.ru.nl/~freek/courses/tt-2024/slides/tt-wtypes-material/slides.pdf
+    details: |
+      Presentation on W-types in Per Martin-Löf Type Theory. 
+      Includes the explanation of their formation, elimination, and computation rules, reformulated using the Pure Type Systems notation.
+      During the presentation, we demonstrated the correspondence between the formal rules and their Coq (Rocq) implementations,
+      and illustrated the expressiveness of W-types through examples including finite sets, natural numbers, ordinal numbers, and binary trees.
+      The talk emphasizes how the W-types can uniformly represent the inductive and recursive data structures within the framework of constructive type theory.
+      
 
 # Certificates
 certificates:
