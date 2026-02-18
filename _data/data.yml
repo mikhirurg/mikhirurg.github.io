@@ -156,7 +156,7 @@ talks:
       
   - time: Nov 2024
     organization: "Radboud University: Type Theory and Coq course"
-    authors: Mikhail Ushakov, Rutger Broekhof
+    authors: Mikhail Ushakov, <a href="https://fautchen.eu/"> Rutger Broekhof </a>
     title: "MLTT: W-types"
     link: https://cs.ru.nl/~freek/courses/tt-2024/slides/tt-wtypes-material/slides.pdf
     details: |
