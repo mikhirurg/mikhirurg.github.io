@@ -237,7 +237,13 @@ certificates:
 
 # Experience
 experience:
-  - time: Sep 2025 - Present
+  - time: Feb 2026 - Present
+    role: Intern at Code Platform team
+    company: JetBrains
+    details: |
+      Internship in the project “Code navigation for implicit declarations in IntelliJ”
+    technologies_used: Kotlin, Kotlin Analysis API, IntelliJ Platform API
+  - time: Sep 2025 - Nov 2025
     role: Student Assistant
     company: Radboud University
     details: | 
