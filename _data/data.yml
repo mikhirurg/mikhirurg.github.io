@@ -238,7 +238,7 @@ certificates:
 # Experience
 experience:
   - time: Feb 2026 - Present
-    role: Intern at Code Platform team
+    role: Intern at Code Platform
     company: JetBrains
     details: |
       Internship in the project “Code navigation for implicit declarations in IntelliJ”
