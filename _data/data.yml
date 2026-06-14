@@ -71,6 +71,12 @@ profile: |
 
 
 projects:
+  - title: MemTRS-REPL
+    link: https://github.com/mikhirurg/MemTRS-REPL
+    details: |
+      Research prototype for modelling and executing concurrent computations using Memory Term Rewriting Systems. 
+      Includes a Cora-based rewriting engine with shared-memory and parallel-reduction support, an interactive REPL, and a standard library of concurrent data structures and algorithms.
+
   - title: WPP2TRS
     link: https://github.com/mikhirurg/WPP2TRS
     details: | 
@@ -142,6 +148,22 @@ projects:
        ITMO University schedule bot for Discord
 
 talks:
+  - time: Jun 2026
+    organization: "Radboud University: Research Internship"
+    authors: Mikhail Ushakov
+    title: Term Rewriting with Shared Memory
+    link: https://www.youtube.com/watch?v=dHZhQgmiFKw
+    details: |
+      Presentation about Memory Term Rewriting Systems (MemTRS), an extension of Logically Constrained Term Rewriting Systems 
+      designed to model concurrent computation with explicit shared mutable memory. 
+      During the presentation, I introduced the formal semantics of memory operations such as GET, SET, and compare-and-swap, 
+      together with parallel reduction strategies and the nondeterminism caused by concurrent memory access.
+      The talk also covered the practical implementation of MemTRS in a fork of the Cora rewriting framework, 
+      including a prototype REPL, shared-memory support, and parallel rewriting using virtual threads. 
+      I demonstrated the model through concurrent data structures and algorithmic case studies involving arrays, 
+      concurrent queues, QuickSort, Breadth-First Search, and Floyd–Warshall.
+      <a href="https://www.mikhirurg.nl/certificates/research_internship/presentation.pdf"> Slides </a>
+      
   - time: Jun 2025
     organization: "Radboud University: Proof Assistants course"
     authors: Mikhail Ushakov
