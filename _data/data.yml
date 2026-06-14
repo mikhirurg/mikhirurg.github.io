@@ -162,7 +162,8 @@ talks:
       including a prototype REPL, shared-memory support, and parallel rewriting using virtual threads. 
       I demonstrated the model through concurrent data structures and algorithmic case studies involving arrays, 
       concurrent queues, QuickSort, Breadth-First Search, and Floyd–Warshall.
-      <a href="https://www.mikhirurg.nl/certificates/research_internship/presentation.pdf"> Slides </a>
+      <a href="https://www.mikhirurg.nl/certificates/research_internship/presentation.pdf"> Slides </a>·
+      <a href="https://www.mikhirurg.nl/certificates/research_internship/report.pdf"> Research Report </a>
       
   - time: Jun 2025
     organization: "Radboud University: Proof Assistants course"
