@@ -164,6 +164,17 @@ talks:
       concurrent queues, QuickSort, Breadth-First Search, and Floyd–Warshall.
       <a href="https://www.mikhirurg.nl/certificates/research_internship/presentation.pdf"> Slides </a>·
       <a href="https://www.mikhirurg.nl/certificates/research_internship/report.pdf"> Research Report </a>
+
+  - time: May 2026
+    organization: GEWIS Study Association, Eindhoven University of Technology
+    authors: Mikhail Ushakov
+    title: JetBrains X GEHACK: First Year Programming Contest
+    link: https://www.mikhirurg.nl/talks/FPC_Eindhoven_04_05_26.pdf
+    details: |
+      Presentation for first-year programming contest participants about reading problem statements, estimating algorithmic complexity, 
+      preparing reliable code templates, and selecting suitable data structures. 
+      The talk used interactive quizzes and practical examples involving arrays, sets, maps, stacks, and queues.
+      I also introduced the JetBrains internship program and presented examples of features developed during my own internship on the Code Platform team.
       
   - time: Jun 2025
     organization: "Radboud University: Proof Assistants course"
