@@ -168,7 +168,7 @@ talks:
   - time: May 2026
     organization: "GEWIS Study Association, Eindhoven University of Technology"
     authors: Mikhail Ushakov
-    title: JetBrains X GEHACK: First Year Programming Contest
+    title: "JetBrains X GEHACK: First Year Programming Contest"
     link: https://www.mikhirurg.nl/talks/FPC_Eindhoven_04_05_26.pdf
     details: |
       Presentation for first-year programming contest participants about reading problem statements, estimating algorithmic complexity, 
