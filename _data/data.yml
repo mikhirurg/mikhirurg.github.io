@@ -166,7 +166,7 @@ talks:
       <a href="https://www.mikhirurg.nl/certificates/research_internship/report.pdf"> Research Report </a>
 
   - time: May 2026
-    organization: GEWIS Study Association, Eindhoven University of Technology
+    organization: "GEWIS Study Association, Eindhoven University of Technology"
     authors: Mikhail Ushakov
     title: JetBrains X GEHACK: First Year Programming Contest
     link: https://www.mikhirurg.nl/talks/FPC_Eindhoven_04_05_26.pdf
